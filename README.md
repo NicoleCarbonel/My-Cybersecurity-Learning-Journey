@@ -22,7 +22,7 @@ My personal learning journal following the [**90DaysOfCyberSecurity**](https://g
 
 | Days | Topic | Status |
 |------|-------|--------|
-| 1-7 | Network+ | ⬜ Not started |
+| 1-7 | Network+ | 	🟨 In Progress |
 | 8-14 | Security+ | ⬜ Not started |
 | 15-28 | Linux | ⬜ Not started |
 | 29-42 | Python | ⬜ Not started |
@@ -50,7 +50,7 @@ my-90-days-of-cybersecurity/
 
 ## 📓 Notes
 Written summaries and key takeaways per section, one file per topic block:
-- `notes/day01-07-networkplus.md`
+- `notes/day01-07-networkplus.md` started Aug 18, 2026
 - `notes/day08-14-securityplus.md`
 - `notes/day15-28-linux.md`
 - *(added as I progress)*
