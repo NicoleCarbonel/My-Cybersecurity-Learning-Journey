@@ -49,7 +49,7 @@ my-90-days-of-cybersecurity/
 ```
 
 ## 📓 Notes
-Written summaries and key takeaways per section, one file per topic block:
+Written summaries and key takeaways per section, one file per topic block. Original notes (PDF) kept alongside a cleaned-up markdown version for easy skimming on GitHub:
 - `notes/day01-07-networkplus.md` started Aug 18, 2026
 - `notes/day08-14-securityplus.md`
 - `notes/day15-28-linux.md`
